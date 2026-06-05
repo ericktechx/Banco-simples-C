@@ -4,7 +4,7 @@ Simulação de um sistema bancário simples construído em **C**, rodando direto
 
 ### 📸 Preview
 
-![Preview do sistema](assets/preview.PNG)
+![Preview do sistema](src/assets/preview.PNG)
 
 ### 🚀 Funcionalidades
 
